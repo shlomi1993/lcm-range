@@ -11,11 +11,7 @@ The program has three parts:
 
 ## Language
 
-- Python3.
-
-## IDEs and Writers
-
-- Visual Studio Code.
+- Python3
 
 ## Links
 
